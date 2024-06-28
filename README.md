@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RajendraNaik-13.RajendraNaik-13" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rajendra+Naik!;" />
 </h1>
